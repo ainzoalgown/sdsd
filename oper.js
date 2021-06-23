@@ -1,0 +1,10 @@
+let gameName
+let description
+let gameVersion
+let  mainCharacterName
+let developerGameName
+let language
+let langVersion
+let map
+let fandom
+let interFaceLanguage
